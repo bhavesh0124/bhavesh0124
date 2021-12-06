@@ -1,12 +1,13 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhavesh][website]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhavesh][<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.uottawa.ca/brand/sites/www.uottawa.ca.brand/files/updated_logo_0.jpg" />]
+
+<!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
+ -->
 ## I'm a Computer Science Graduate student
 
-- Creator of the [Python Engineer][youtube] YouTube channel 
+- Pursuing Masters in Computer Science at the University of Ottawa, Canada.
 - I create free educational content about Python and Machine Learning
 - On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more
 - I also post articles on my [Website][website]
