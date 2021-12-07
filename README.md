@@ -7,16 +7,9 @@
 
 <a href='mailto:bhaveshsingh0124@gmail.com/'><img align='left' alt="gmail" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 
-
-<!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
-[<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- -->
- 
-<br>
 #### I'm a Computer Science Graduate student with courses concentrated in Machine and Deep Learning 🤖. I am a team player, flexible 🌐, and always open to new challenges 💻. 
-<br/>
+
+<br>
 
 - I live in Ottawa, Onatrio, Canada.
 - Pursuing Masters in Computer Science at the University of Ottawa.
