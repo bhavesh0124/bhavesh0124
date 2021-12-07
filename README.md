@@ -15,7 +15,7 @@
 
 <br>
 
-- I live in Ottawa, Onatrio, Canada.
+- I live in Ottawa, Canada.
 - Pursuing Masters in Computer Science at the University of Ottawa.
 - I'm a former Senior Analyst at an AI/ML firm with more than 2 years of experience. 
 
