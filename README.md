@@ -1,8 +1,8 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhavesh !]
 
-<a href='https://www.linkedin.com/in/bhavesh-bisht-969781135/'><img align='left' alt="linkedin" height='18px'/></a>
+<a href='https://www.linkedin.com/in/bhavesh-bisht-969781135/'><img align='left' alt="linkedin" src= "" https://cdn-icons-png.flaticon.com/512/174/174857.png height='18px'/></a>
 
-![alt text](https://www.uottawa.ca/brand/sites/www.uottawa.ca.brand/files/updated_logo_0.jpg )
+
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
