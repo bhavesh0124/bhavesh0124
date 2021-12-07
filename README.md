@@ -36,7 +36,7 @@
 
 ## My GitHub Stats 💻
 
-[![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh0124&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)]
+[![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh0124&theme=dracula)]()]
 
 
 
