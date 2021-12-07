@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhavesh !]
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhavesh !
 
 <a href='https://www.linkedin.com/in/bhavesh-bisht-969781135/'><img align='left' alt="linkedin" src= "https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
 
