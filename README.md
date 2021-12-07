@@ -31,7 +31,8 @@
 
 <a href="https://linux.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png"></a>
 
-
+<br>
+</br>
 
 ## My GitHub Stats 💻
 
