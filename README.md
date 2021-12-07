@@ -1,5 +1,6 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhavesh]
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhavesh !]
 
+<a href='https://www.linkedin.com/in/bhavesh-bisht-969781135/'><img align='left' alt="linkedin" height='18px'/></a>
 
 ![alt text](https://www.uottawa.ca/brand/sites/www.uottawa.ca.brand/files/updated_logo_0.jpg )
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
