@@ -7,6 +7,10 @@
 
 <a href='mailto:bhaveshsingh0124@gmail.com/'><img align='left' alt="gmail" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 
+<br>
+
+</br>
+
 #### I'm a Computer Science Graduate student with courses concentrated in Machine and Deep Learning 🤖. I am a team player, flexible 🌐, and always open to new challenges 💻. 
 
 <br>
