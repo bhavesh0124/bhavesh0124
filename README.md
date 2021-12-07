@@ -4,7 +4,7 @@
 
 <a href='https://www.youtube.com/channel/UClh7SVFUm8fCG5upaHZP2Vw/'><img align='left' alt="youtube" src= "https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" height='18px'/></a>
 
-<a href='bhaveshsingh0124@gmail.com/'><img align='left' alt="linkedin" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
+<a href='mailto:bhaveshsingh0124@gmail.com/'><img align='left' alt="gmail" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 
 
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
