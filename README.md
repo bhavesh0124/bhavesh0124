@@ -13,7 +13,7 @@
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
  -->
-## I'm a Computer Science Graduate student with courses concentrated in Machine and Deep Learning 🤖. I am a team player, flexible 🌐, and always open to new challenges 💻. I love exploring new tech stack  🛠️. 
+#### I'm a Computer Science Graduate student with courses concentrated in Machine and Deep Learning 🤖. I am a team player, flexible 🌐, and always open to new challenges 💻. 
 <br/>
 <br/>
 <br/>
