@@ -2,6 +2,8 @@
 
 <a href='https://www.linkedin.com/in/bhavesh-bisht-969781135/'><img align='left' alt="linkedin" src= "https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
 
+<a href='https://www.youtube.com/channel/UClh7SVFUm8fCG5upaHZP2Vw/'><img align='left' alt="youtube" src= "https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" height='18px'/></a>
+
 
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
