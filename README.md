@@ -11,13 +11,14 @@
 
 </br>
 
-#### I'm a Computer Science Graduate student with courses concentrated in Machine and Deep Learning 🤖. I am a team player, flexible 🌐 and always open to new challenges 💻. 
+#### I'm a Computer Science Graduate student with thesis concentrated in Deep Learning 🤖. I am a team player, flexible 🌐 and always open to new challenges 💻. 
 
 <br>
 
 - I live in Ottawa, Canada.
-- Pursuing Masters in Computer Science at the University of Ottawa.
-- I'm a former Senior Analyst at an AI/ML firm with more than 2 years of experience. 
+- Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
+- I'm a former Senior Analyst at an AI/ML firm with more than 2 years of experience.
+- I play guitar, check out my youtube channel! 
 
 
 ### 🔨 Languages and Tools:
