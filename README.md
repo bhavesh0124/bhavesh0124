@@ -16,7 +16,8 @@
 <br>
 
 - I live in Ottawa, Canada.
-- Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
+- I'm Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
+- I'm a Research Assistant at Smart IOT lab Uottawa
 - I'm a former Senior Analyst at an AI/ML firm with more than 2 years of experience.
 - I play guitar, check out my youtube channel! 
 
