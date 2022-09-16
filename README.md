@@ -17,7 +17,7 @@
 
 - I live in Ottawa, Canada.
 - I'm Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
-- I'm a Research Assistant at Smart IOT lab Uottawa
+- I'm a Research Assistant at Smart IOT lab Uottawa and im working on detecting yield prediction using spatial and temporal sensing features
 - I'm a former Senior Analyst with more than 2 years of experience working with machine learning, MLOps and AWS
 - I play guitar, check out my youtube channel! 
 
