@@ -15,13 +15,12 @@
 
 <br>
 
-- I live in Ottawa, Canada.
+- I live in Ottawa, Ontario, Canada.
 - I'm Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
-- I'm a Research Assistant at Smart IOT lab Uottawa and im working on detecting yield prediction using spatial and temporal sensing features
-- 
+- I'm a Research Assistant at the Smart IOT lab Uottawa and im working on predicting yield on RGB and Multispecral Orthomosaics of farms based in Ottawa using Deep learning. The thesis is in collaboration with Agriculture Canada and Invest Ottawa [Link](https://smartiot.rdc.uottawa.ca/masc-students/)
 - I'm a 2X Kaggle Expert. [Link](https://www.kaggle.com/bhavesh0124)
 - I'm a former Senior Analyst with more than 2 years of experience working with machine learning, MLOps and AWS
-- I play guitar, check out my youtube channel! 
+- I play lead guitars for a metal band called Innuendo based in Ottawa
 
 
 
