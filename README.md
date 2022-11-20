@@ -18,8 +18,12 @@
 - I live in Ottawa, Canada.
 - I'm Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
 - I'm a Research Assistant at Smart IOT lab Uottawa and im working on detecting yield prediction using spatial and temporal sensing features
+- I'm a 2X Kaggle Expert 
 - I'm a former Senior Analyst with more than 2 years of experience working with machine learning, MLOps and AWS
 - I play guitar, check out my youtube channel! 
+
+
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" alt="pytorch" height="42px"/> </a> 
 
 
 ### 🔨 Languages and Tools:
