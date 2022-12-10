@@ -36,9 +36,9 @@
 
 <a href="https://www.aws.amazon.com" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></a>
 
-<a href="https://linux.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png"></a>
+<a href="https://linux.org/" target="_blank"> <img align="left" alt="Linux" height ="42px" src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png"></a>
 
-<a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"></a>
+<a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="Kubernetes" height ="42px" src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"></a>
 
 <br>
 </br>
