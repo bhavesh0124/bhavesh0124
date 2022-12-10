@@ -17,6 +17,7 @@
 
 - I live in Ottawa, Ontario, Canada.
 - I'm Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
+- Currently I'am doing COOP at Nokia in the Cloud and Network Services Team.
 - I'm a Research Assistant at the Smart IOT lab Uottawa and working on predicting Corn yield on RGB and Multispecral Orthomosaics of farms based in Ottawa using Deep learning. The thesis is in collaboration with Agriculture Canada and Invest Ottawa [Link](https://smartiot.rdc.uottawa.ca/masc-students/)
 - I'm a 2X Kaggle Expert. [Link](https://www.kaggle.com/bhavesh0124)
 - I'm a former Senior Analyst with more than 2 years of experience working with large scale Machine learning, MLOps and AWS.
