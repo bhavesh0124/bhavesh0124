@@ -11,7 +11,7 @@
 
 </br>
 
-#### I'm a Computer Science Graduate student with thesis concentrated in Deep Learning 🤖. I am a team player, flexible 🌐 and always open to new challenges 💻. 
+#### I'm a Computer Science Graduate student at the University of Ottawa, Canada. 🤖. I am a team player, flexible 🌐 and always open to new challenges 💻. 
 
 <br>
 
@@ -19,7 +19,7 @@
 - I'm Pursuing Masters in Computer Science at the University of Ottawa (Thesis Based).
 - I'm a Research Assistant at the Smart IOT lab Uottawa and working on predicting Corn yield on RGB and Multispecral Orthomosaics of farms based in Ottawa using Deep learning. The thesis is in collaboration with Agriculture Canada and Invest Ottawa [Link](https://smartiot.rdc.uottawa.ca/masc-students/)
 - I'm a 2X Kaggle Expert. [Link](https://www.kaggle.com/bhavesh0124)
-- I'm a former Senior Analyst with more than 2 years of experience working with machine learning, MLOps and AWS
+- I'm a former Senior Analyst with more than 2 years of experience working with Machine learning, MLOps and AWS
 - I play lead guitars for a metal band called Innuendo based in Ottawa
 
 
@@ -37,6 +37,8 @@
 <a href="https://www.aws.amazon.com" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></a>
 
 <a href="https://linux.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png"></a>
+
+<a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"></a>
 
 <br>
 </br>
